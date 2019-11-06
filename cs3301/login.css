@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+.container{
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  text-align:center;
+}
+
+.login{
+  margin-top: 50px;
+  width: 450px;
+}
+
+.welcome{
+  font: 1.8em/48px;
+  color: white;
+}
+
+
+.sign-in-button {
+  padding: 5px 20px;
+  background: white;
+}
+
+
